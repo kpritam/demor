@@ -6,6 +6,6 @@ Author: Pritam Kadam
 Maintainer: phkadam2008@gmail.com
 Description: This is a demo application to explore various patterns in R Lang.
     Also configues CI/CD workflows for R applications.
-License: Apache 2.0
+License: Apache License (>= 2)
 Encoding: UTF-8
 LazyData: true
